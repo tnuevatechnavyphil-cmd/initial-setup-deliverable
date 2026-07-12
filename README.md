@@ -24,3 +24,8 @@ Deliverables:
 3. Uses .reduce to sum all the values inside the list
 
 ---
+
+### Day 4: Object-Oriented Ruby
+1. Made an Object-Oriented Tic Tac Toe game
+2. Uses instance variables and class variables
+3. Uses user-defined methods inside classes
