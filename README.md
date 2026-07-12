@@ -19,6 +19,8 @@ Deliverables:
 
 ### Day 3: Enumerable & Debugging
 Deliverables:
-1. 
-2. 
-3. 
+1. Made a program that multiplies every element of a list by 2 using .map
+2. Uses .select to filter odd number in a list
+3. Uses .reduce to sum all the values inside the list
+
+---
