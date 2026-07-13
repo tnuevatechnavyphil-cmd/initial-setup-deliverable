@@ -29,3 +29,17 @@ Deliverables:
 1. Made an Object-Oriented Tic Tac Toe game
 2. Uses instance variables and class variables
 3. Uses user-defined methods inside classes
+
+---
+
+### Day 5: Advanced Ruby & RSpec
+1. Made a recursive tree sum calculator with Rspec testing
+2. Uses recursion to traverse the tree datastructure and calculate its sum 
+3. Uses Rspec to test the validity of the algorithm
+
+---
+
+### Day 6: Rails Setup & Basics
+1. 
+2. 
+3. 
